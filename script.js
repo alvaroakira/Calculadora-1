@@ -1,4 +1,4 @@
-// calculator
+// calculator function
 
 const display = document.getElementById("display");
 
